@@ -16,7 +16,6 @@ import java.util.Map;
 
 @Controller
 public class HomeController {
-
     private final MoviesBean moviesBean;
     private final AlbumsBean albumsBean;
 
